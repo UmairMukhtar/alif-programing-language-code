@@ -2,6 +2,8 @@
 
 This is the README for your extension "alif-programming-language". After writing up a brief description, we recommend including the following sections.
 
+Idea was to implement RTL Support and Syntax Highlighting for Alif in VS Code by turns out VS Code does not yet support RTL and in unable to display rtl languages so this extension development is postponed util VS Code Supports RTL https://github.com/microsoft/vscode/issues/86667
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
